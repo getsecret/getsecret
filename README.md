@@ -8,14 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=getsecret&label=Profile%20views&color=0e75b6&style=flat" alt="getsecret"/>
  </p>
  
+[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/getsecret/zmk-for-sofle-rgb-actions/latest/total)](https://github.com/getsecret/getsecret/stargazers)
+
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/getsecret/getsecret/stargazers)
 
-[getsecret](https://github.com/getsecret)
-
-- Ex : username:
-- Ex : username:
-- Ex : username:
-
+[----](https://github.com/getsecret)
 
 
 <!--
