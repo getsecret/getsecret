@@ -29,8 +29,6 @@
 </p>
 
 
-[SollnJllsJ](https://github.com/getsecret)
-
 <!--
 getsecret
 **getsecret/getsecret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
