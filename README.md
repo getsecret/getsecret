@@ -8,6 +8,7 @@
 	<img src="https://img.shields.io/badge/Lives-Thailand-blueviolet" />
 	<img src="https://img.shields.io/badge/Languages-English%20%26%20Thai-blueviolet" />
 	<img src="https://img.shields.io/badge/Focus-Keyboard%20Learning-blueviolet" />
+	<a href="https://getsecret.github.io"><img alt="Static Badge" src="https://img.shields.io/badge/Me-U-blueviolet"/></a>
 </p>
 
 <p align = "center">
@@ -27,7 +28,6 @@
 <p align="center">
         <a href="https://github.com/getsecret/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=getsecret.getsecret"></a>
 </p>
-
 
 <!--
 getsecret
